@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndraInlamning/AndraInlamning.iml" filepath="$PROJECT_DIR$/AndraInlamning/AndraInlamning.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hello/Hello.iml" filepath="$PROJECT_DIR$/Hello/Hello.iml" />
       <module fileurl="file://$PROJECT_DIR$/Horoskop/Horoskop.iml" filepath="$PROJECT_DIR$/Horoskop/Horoskop.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lektion.23-02-15/Lektion.23-02-15.iml" filepath="$PROJECT_DIR$/Lektion.23-02-15/Lektion.23-02-15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion02.23-02-15/Lektion02.23-02-15.iml" filepath="$PROJECT_DIR$/Lektion02.23-02-15/Lektion02.23-02-15.iml" />
       <module fileurl="file://$PROJECT_DIR$/QuantityApples/QuantityApples.iml" filepath="$PROJECT_DIR$/QuantityApples/QuantityApples.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variablar/Variablar.iml" filepath="$PROJECT_DIR$/Variablar/Variablar.iml" />
     </modules>
