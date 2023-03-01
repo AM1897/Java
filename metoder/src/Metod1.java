@@ -1,4 +1,4 @@
-public class Hello {
+public class Metod1 {
     public static void main(String[] args) {
         sayHello();
     }
